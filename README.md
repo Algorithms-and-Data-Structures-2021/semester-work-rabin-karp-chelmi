@@ -74,6 +74,6 @@ cmake .. -DCMAKE_BUILD_TYPE=RelWithDebInfo && cmake --config RelWithDebInfo --bu
 
 ## Источники
 
-+ https://en.wikipedia.org/wiki/Rabin–Karp_algorithm
-+ https://www.youtube.com/watch?v=oxd_Z1osgCk&t=1s
-+ https://github.com/search?q=rabin_karp
++ [Wikipedia](https://en.wikipedia.org/wiki/Rabin–Karp_algorithm)
++ [YouTube](https://www.youtube.com/watch?v=oxd_Z1osgCk&t=1s)
++ [GitHub Repositories](https://github.com/search?q=rabin_karp)
