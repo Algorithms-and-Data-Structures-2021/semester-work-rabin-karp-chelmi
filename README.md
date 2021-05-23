@@ -66,9 +66,9 @@ cmake .. -DCMAKE_BUILD_TYPE=RelWithDebInfo && cmake --config RelWithDebInfo --bu
 Генерация тестового набора данных в
 формате [comma-seperated values (CSV)](https://en.wikipedia.org/wiki/Comma-separated_values):
  
-+ Заходим в директорию [`src/dataset`]
-+ Находим [`generate_csv_dataset.cpp`]
-+ Нажимаем [`Run 'generate_csv_dataset'`]
++ Заходим в директорию `src/dataset`
++ Находим `generate_csv_dataset.cpp`
++ Нажимаем `Run 'generate_csv_dataset'`
 
 Тестовые данные представлены в CSV формате
 [`dataset/data/dataset-example.csv`](dataset/data/dataset-example.csv))
